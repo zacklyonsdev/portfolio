@@ -10,7 +10,7 @@ function App() {
       <div>
         <img src={viteLogo} className="logo" alt="Vite logo" />
       </div>
-      <h1>Hello World!</h1>
+      <h1>Hello World! Welcome to the Foo Bar</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
